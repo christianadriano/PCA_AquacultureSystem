@@ -1,3 +1,45 @@
-﻿Cultura,Especie,Código - Fazendas,1. Razão entre Receita líquida e Investimento inicial (%),2. Taxa Interna de Retorno (%.aa),3. Período de Retorno do Capital (anos),4. Razão Benefício-custo (R$),5. Valor presente líquido (R$),6. Lucro líquido (R$),9. Receita anual R$,10. Permanência do proprietário na atividade (anos),11. Taxa de Risco (%),12. Diversidade de Produtos,13. Diversidade de Mercados,2. Dependência de água (m³/t),3. Uso de energia (MJ/t),5. Uso de nitrogênio (kg/t),6. Uso do fósforo (kg/t),7. Eficiência no Uso de Energia (%),8. Eficiência no uso de nitrogênio (%),9. Eficiência no uso de fósforo (%),"11 Potencial de Eutrofização P e N (kg/t)
-",12. Potencial de Poluição Orgânica (kg/t),13. Potencial de Siltação (kg/t),14. Potencial de Aquecimento Global (kg/t),22. Risco de espécies cultivadas,4. Eficiência no uso de carbono (%),1. Desenvolvimento da economia local (%),2. Uso de mão-de-obra local (%),3. Remuneração dos trabalhadores por unidade de produção (R$/kg),4. Empregos diretos gerados pelo investimento (R$/emprego),6. Proporção de autoempregos (%),7. Permanência na atividade (anos),8. Trabalho requerido por unidade de área ocupada (MHY/m²),9. Trabalho requerido por unidade de produção (HH/kg),10. Segurança no local de trabalho (%),11. Consumo local da produção (%),13. Custo proporcional do trabalho (%),14. Distribuição da renda (R$),15. Acesso a plano de saúde (%),16. Educação (%),17. Participação em atividades da comunidade (%),18. Inclusão de gênero (%),19. Inclusão racial (%),20. Inclusão etária (%)
-cultura,especie,Fazenda,E1_RRLII,E2_TIR,E3_PRC,E4_RBC,E5_VPL,E6_LL,E9_R,E10_PPA,E11_TR,E12_DP,E13_DM,A2_DA,A3_UE,A5_UN,A6_UF,A7_EUE,A8_EUN,A9_EUF,A11_PEPN,A12_PPO,A13_PS,A14_PAG,A22_REC,A4_EUC,S1_DEL,S2_UMOL,S3_RTUP,S4_EDGI,S6_PA,S7_PA,S8_TRUAO,S9_TRUP,S10_SLT,S11_CLP,S13_CPT,S14_DR,S15_APS,S16_E,S17_PAC,S18_IG,S19_IR,S20_IE
+﻿Cultura,cultura
+Especie,especie
+Código - Fazendas,Fazenda
+1. Razão entre Receita líquida e Investimento inicial (%),E1_RRLII
+2. Taxa Interna de Retorno (%.aa),E2_TIR
+3. Período de Retorno do Capital (anos),E3_PRC
+4. Razão Benefício-custo (R$),E4_RBC
+5. Valor presente líquido (R$),E5_VPL
+6. Lucro líquido (R$),E6_LL
+9. Receita anual R$,E9_R
+10. Permanência do proprietário na atividade (anos),E10_PPA
+11. Taxa de Risco (%),E11_TR
+12. Diversidade de Produtos,E12_DP
+13. Diversidade de Mercados,E13_DM
+2. Dependência de água (m³/t),A2_DA
+3. Uso de energia (MJ/t),A3_UE
+5. Uso de nitrogênio (kg/t),A5_UN
+6. Uso do fósforo (kg/t),A6_UF
+7. Eficiência no Uso de Energia (%),A7_EUE
+8. Eficiência no uso de nitrogênio (%),A8_EUN
+9. Eficiência no uso de fósforo (%),A9_EUF
+11 Potencial de Eutrofização P e N (kg/t),A11_PEPN
+12. Potencial de Poluição Orgânica (kg/t),A12_PPO
+13. Potencial de Siltação (kg/t),A13_PS
+14. Potencial de Aquecimento Global (kg/t),A14_PAG
+22. Risco de espécies cultivadas,A22_REC
+4. Eficiência no uso de carbono (%),A4_EUC
+1. Desenvolvimento da economia local (%),S1_DEL
+2. Uso de mão-de-obra local (%),S2_UMOL
+3. Remuneração dos trabalhadores por unidade de produção (R$/kg),S3_RTUP
+4. Empregos diretos gerados pelo investimento (R$/emprego),S4_EDGI
+6. Proporção de autoempregos (%),S6_PA
+7. Permanência na atividade (anos),S7_PA
+8. Trabalho requerido por unidade de área ocupada (MHY/m²),S8_TRUAO
+9. Trabalho requerido por unidade de produção (HH/kg),S9_TRUP
+10. Segurança no local de trabalho (%),S10_SLT
+11. Consumo local da produção (%),S11_CLP
+13. Custo proporcional do trabalho (%),S13_CPT
+14. Distribuição da renda (R$),S14_DR
+15. Acesso a plano de saúde (%),S15_APS
+16. Educação (%),S16_E
+17. Participação em atividades da comunidade (%),S17_PAC
+18. Inclusão de gênero (%),S18_IG
+19. Inclusão racial (%),S19_IR
+20. Inclusão etária (%),S20_IE
